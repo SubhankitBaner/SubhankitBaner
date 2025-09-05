@@ -12,6 +12,7 @@ I’m passionate about extracting insights from data, building predictive models
 - 💡 Believer in *“learning by building”*.  
 
 ---
+
 ## 📈 Currently Exploring  
 - 🧠 **Generative AI (LLMs, Prompt Engineering, Fine-tuning)**  
 - ⚡ **End-to-end ML pipelines & deployment**  
@@ -49,6 +50,8 @@ I’m passionate about extracting insights from data, building predictive models
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter Notebook"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="45" height="45" alt="Streamlit"/>
 </p>  
+
+
 ---
 
 ## 📊 GitHub Stats  
