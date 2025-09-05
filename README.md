@@ -63,6 +63,10 @@ I’m passionate about extracting insights from data, building predictive models
 ## 📬 Let's Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhankit-bandyopadhyay-634396324/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bsubhankit@gmail.com)
+
+--- 
+
+## 🏆 Competitive Programming  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Subhankit_2004/)
 
 
