@@ -72,5 +72,6 @@ I’m passionate about extracting insights from data, building predictive models
 ## 🏆 Competitive Programming  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Subhankit_2004/)
 
+---
 
 ✨ *“It is possible to commit no mistakes and still lose. That is not a weakness. That is life.”* – Jean-Luc Picard   
