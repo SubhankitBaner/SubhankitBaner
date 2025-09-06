@@ -2,7 +2,7 @@
 
 🚀 **Aspiring Data Scientist | ML & DL Enthusiast | Exploring GenAI**  
 
-I’m passionate about extracting insights from data, building predictive models, and creating intelligent applications. Currently, I’m on a journey to **master Generative AI** while strengthening my foundations in Machine Learning and Deep Learning.  
+I’m pursuing a B.Tech in Computer Science, passionate about extracting insights from data, building predictive models, and creating intelligent applications. Currently, I’m on a journey to master Generative AI while strengthening my foundations in Machine Learning and Deep Learning. 
 
 ---
 ## 🧑‍💻 About Me  
